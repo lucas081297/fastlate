@@ -99,7 +99,7 @@
     "papaparse": "5.4.1"
   },
   "devDependencies": {
-    "@types/jest": "29.5.12",
+    "@types/jest": "30.0.0",
     "@types/node": "20.11.5",
     "@types/papaparse": "5.3.14",
     "@types/vscode": "^1.85.0",
@@ -109,7 +109,7 @@
     "@vscode/vsce": "3.9.1",
     "eslint": "^8.57.1",
     "fast-check": "^4.8.0",
-    "jest": "29.7.0",
+    "jest": "30.4.2",
     "ts-jest": "29.1.2",
     "ts-node": "^10.9.2",
     "typescript": "5.3.3"
